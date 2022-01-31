@@ -1,0 +1,43 @@
+body{background-color: rgb(229, 245, 158); margin:0;}
+.titre1 {color: #25C2B9; text-align: center; font-family: "Verdana",sans-serif;}
+.titre2 {color: #Black; text-align: center; font-family: "Verdana",sans-serif;}
+.parkings {color: #Black; font-weight: bold; text-align: center; font-family: "Verdana",sans-serif;}
+.vélos {color: #Black; font-weight: bold; text-align: center; font-family: "Verdana",sans-serif;}
+.image1 {text-align: center;}
+.image2 {text-align: center;}
+
+
+.link {
+    display: flex;                /* Transformation en flexbox */
+    padding: 10px;;                    /* Suppression des marges internes */
+    background-color: rgb(29, 228, 185);       /* Ajout de la couleur d'arrière-plan */
+    justify-content: space-around;
+    font-family: "Verdana",sans-serif; 
+    border: 1px solid #fff;       /* Ajout d'une bordure */
+    border-radius: 4px; 
+    margin: 0.5rem 0;               /* Marges externes */
+    padding: 0.4rem 0;            /* Marges internes */
+    text-align: center;           /* Centrage du texte */   
+    background-color: rgb(29, 228, 185);    /* Arrière-plan */
+    color: #fff;                  /* Couleur du texte */
+    text-decoration: none;}
+
+.name {
+    color: #Black; 
+    text-align: center; 
+    font-family: "Verdana",sans-serif;
+    display: flex;                /* Transformation en flexbox */
+    padding: 10px;;                    /* Suppression des marges internes */
+    background-color: rgb(26, 64, 188);       /* Ajout de la couleur d'arrière-plan */
+    justify-content: space-around;
+    font-family: "Verdana",sans-serif; 
+    border: 1px solid #fff;       /* Ajout d'une bordure */
+    border-radius: 4px; 
+    margin: 0.5rem 0;               /* Marges externes */
+    padding: 0.4rem 0;            /* Marges internes */
+    text-align: center;           /* Centrage du texte */   
+    background-color: rgb(26, 64, 188);    /* Arrière-plan */
+    color: #fff;                  /* Couleur du texte */
+    text-decoration: none;}
+
+}
