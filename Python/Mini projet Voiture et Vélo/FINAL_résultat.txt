@@ -1,0 +1,1028 @@
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Nom de la station : 001 Rue Jules Ferry - Gare Saint-Roch
+Places libres : 4
+Places occupées : 8
+Nombre de places totales : 4
+
+------- STATION DE VELOS -------
+
+Nom de la station : 002 Comédie
+Places libres : 18
+Places occupées : 6
+Nombre de places totales : 18
+
+------- STATION DE VELOS -------
+
+Nom de la station : 003 Esplanade
+Places libres : 23
+Places occupées : 9
+Nombre de places totales : 23
+
+------- STATION DE VELOS -------
+
+Nom de la station : 004 Hôtel de Ville
+Places libres : 5
+Places occupées : 11
+Nombre de places totales : 5
+
+------- STATION DE VELOS -------
+
+Nom de la station : 005 Corum
+Places libres : 0
+Places occupées : 12
+Nombre de places totales : 0
+
+------- STATION DE VELOS -------
+
+Nom de la station : 006 Place Albert 1er - St Charles
+Places libres : 24
+Places occupées : 7
+Nombre de places totales : 24
+
+------- STATION DE VELOS -------
+
+Nom de la station : 007 Foch
+Places libres : 7
+Places occupées : 1
+Nombre de places totales : 7
+
+------- STATION DE VELOS -------
+
+Nom de la station : 008 Halles Castellane
+Places libres : 8
+Places occupées : 4
+Nombre de places totales : 8
+
+------- STATION DE VELOS -------
+
+Nom de la station : 009 Observatoire
+Places libres : 3
+Places occupées : 5
+Nombre de places totales : 3
+
+------- STATION DE VELOS -------
+
+Nom de la station : 010 Rondelet
+Places libres : 14
+Places occupées : 2
+Nombre de places totales : 14
+
+------- STATION DE VELOS -------
+
+Nom de la station : 011 Plan Cabanes
+Places libres : 0
+Places occupées : 12
+Nombre de places totales : 0
+
+------- STATION DE VELOS -------
+
+Nom de la station : 012 Boutonnet
+Places libres : 10
+Places occupées : 2
+Nombre de places totales : 10
+
+------- STATION DE VELOS -------
+
+Nom de la station : 013 Emile Combes
+Places libres : 0
+Places occupées : 8
+Nombre de places totales : 0
+
+------- STATION DE VELOS -------
+
+Nom de la station : 014 Beaux-Arts
+Places libres : 7
+Places occupées : 1
+Nombre de places totales : 7
+
+------- STATION DE VELOS -------
+
+Nom de la station : 015 Les Aubes
+Places libres : 2
+Places occupées : 6
+Nombre de places totales : 2
+
+------- STATION DE VELOS -------
+
+Nom de la station : 016 Antigone centre
+Places libres : 0
+Places occupées : 16
+Nombre de places totales : 0
+
+------- STATION DE VELOS -------
+
+Nom de la station : 017 Médiathèque Emile Zola
+Places libres : 9
+Places occupées : 7
+Nombre de places totales : 9
+
+------- STATION DE VELOS -------
+
+Nom de la station : 018 Nombre d'Or
+Places libres : 2
+Places occupées : 14
+Nombre de places totales : 2
+
+------- STATION DE VELOS -------
+
+Nom de la station : 019 Louis Blanc
+Places libres : 9
+Places occupées : 7
+Nombre de places totales : 9
+
+------- STATION DE VELOS -------
+
+Nom de la station : 020 Gambetta
+Places libres : 3
+Places occupées : 5
+Nombre de places totales : 3
+
+------- STATION DE VELOS -------
+
+Nom de la station : 021 Port Marianne
+Places libres : 9
+Places occupées : 7
+Nombre de places totales : 9
+
+------- STATION DE VELOS -------
+
+Nom de la station : 022 Clemenceau
+Places libres : 9
+Places occupées : 3
+Nombre de places totales : 9
+
+------- STATION DE VELOS -------
+
+Nom de la station : 023 Les Arceaux
+Places libres : 16
+Places occupées : 0
+Nombre de places totales : 16
+
+------- STATION DE VELOS -------
+
+Nom de la station : 024 Cité Mion
+Places libres : 7
+Places occupées : 1
+Nombre de places totales : 7
+
+------- STATION DE VELOS -------
+
+Nom de la station : 025 Nouveau Saint-Roch
+Places libres : 1
+Places occupées : 7
+Nombre de places totales : 1
+
+------- STATION DE VELOS -------
+
+Nom de la station : 026 Renouvier
+Places libres : 5
+Places occupées : 3
+Nombre de places totales : 5
+
+------- STATION DE VELOS -------
+
+Nom de la station : 027 Odysseum
+Places libres : 2
+Places occupées : 6
+Nombre de places totales : 2
+
+------- STATION DE VELOS -------
+
+Nom de la station : 028 Saint-Denis
+Places libres : 6
+Places occupées : 2
+Nombre de places totales : 6
+
+------- STATION DE VELOS -------
+
+Nom de la station : 029 Richter
+Places libres : 0
+Places occupées : 16
+Nombre de places totales : 0
+
+------- STATION DE VELOS -------
+
+Nom de la station : 030 Charles Flahault
+Places libres : 8
+Places occupées : 0
+Nombre de places totales : 8
+
+------- STATION DE VELOS -------
+
+Nom de la station : 031 Voltaire
+Places libres : 1
+Places occupées : 7
+Nombre de places totales : 1
+
+------- STATION DE VELOS -------
+
+Nom de la station : 032 Prés d'Arènes
+Places libres : 2
+Places occupées : 6
+Nombre de places totales : 2
+
+------- STATION DE VELOS -------
+
+Nom de la station : 033 Garcia Lorca
+Places libres : 1
+Places occupées : 7
+Nombre de places totales : 1
+
+------- STATION DE VELOS -------
+
+Nom de la station : 034 Vert Bois
+Places libres : 16
+Places occupées : 0
+Nombre de places totales : 16
+
+------- STATION DE VELOS -------
+
+Nom de la station : 035 Malbosc
+Places libres : 7
+Places occupées : 1
+Nombre de places totales : 7
+
+------- STATION DE VELOS -------
+
+Nom de la station : 036 Occitanie
+Places libres : 29
+Places occupées : 3
+Nombre de places totales : 29
+
+------- STATION DE VELOS -------
+
+Nom de la station : 037 FacdesSciences
+Places libres : 17
+Places occupées : 7
+Nombre de places totales : 17
+
+------- STATION DE VELOS -------
+
+Nom de la station : 038 Fac de Lettres
+Places libres : 13
+Places occupées : 3
+Nombre de places totales : 13
+
+------- STATION DE VELOS -------
+
+Nom de la station : 039 Aiguelongue
+Places libres : 6
+Places occupées : 2
+Nombre de places totales : 6
+
+------- STATION DE VELOS -------
+
+Nom de la station : 040 Jeu de Mail des Abbés
+Places libres : 6
+Places occupées : 2
+Nombre de places totales : 6
+
+------- STATION DE VELOS -------
+
+Nom de la station : 041 Euromédecine
+Places libres : 7
+Places occupées : 1
+Nombre de places totales : 7
+
+------- STATION DE VELOS -------
+
+Nom de la station : 042 Marie Caizergues
+Places libres : 3
+Places occupées : 5
+Nombre de places totales : 3
+
+------- STATION DE VELOS -------
+
+Nom de la station : 043 Sabines
+Places libres : 6
+Places occupées : 2
+Nombre de places totales : 6
+
+------- STATION DE VELOS -------
+
+Nom de la station : 044 Celleneuve
+Places libres : 3
+Places occupées : 5
+Nombre de places totales : 3
+
+------- STATION DE VELOS -------
+
+Nom de la station : 045 Jardin de la Lironde
+Places libres : 4
+Places occupées : 4
+Nombre de places totales : 4
+
+------- STATION DE VELOS -------
+
+Nom de la station : 046 Père Soulas
+Places libres : 7
+Places occupées : 1
+Nombre de places totales : 7
+
+------- STATION DE VELOS -------
+
+Nom de la station : 047 Place Viala
+Places libres : 3
+Places occupées : 5
+Nombre de places totales : 3
+
+------- STATION DE VELOS -------
+
+Nom de la station : 048 Hôtel du Département
+Places libres : 7
+Places occupées : 1
+Nombre de places totales : 7
+
+------- STATION DE VELOS -------
+
+Nom de la station : 049 Tonnelles
+Places libres : 3
+Places occupées : 5
+Nombre de places totales : 3
+
+------- STATION DE VELOS -------
+
+Nom de la station : 050 Parvis Jules Ferry - Gare Saint-Roch
+Places libres : 8
+Places occupées : 0
+Nombre de places totales : 8
+
+------- STATION DE VELOS -------
+
+Nom de la station : 051 Pont de Lattes - Gare Saint-Roch
+Places libres : 11
+Places occupées : 1
+Nombre de places totales : 11
+
+------- STATION DE VELOS -------
+
+Nom de la station : 053 Deux Ponts - Gare Saint-Roch
+Places libres : 7
+Places occupées : 1
+Nombre de places totales : 7
+
+------- STATION DE VELOS -------
+
+Nom de la station : 054 Providence - Ovalie
+Places libres : 3
+Places occupées : 5
+Nombre de places totales : 3
+
+------- STATION DE VELOS -------
+
+Nom de la station : 055 Pérols Etang de l'Or
+Places libres : 34
+Places occupées : 34
+Nombre de places totales : 34
+
+------- STATION DE VELOS -------
+
+Nom de la station : 056 Albert 1er - Cathédrale
+Places libres : 12
+Places occupées : 0
+Nombre de places totales : 12
+
+------- STATION DE VELOS -------
+
+Nom de la station : 057 Saint-Guilhem - Courreau
+Places libres : 1
+Places occupées : 7
+Nombre de places totales : 1
+
+------- STATION DE VELOS -------
+
+Nom de la station : 059 Sud De France
+Places libres : 8
+Places occupées : 0
+Nombre de places totales : 8
+
+------- STATION DE VELOS -------
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Date :2022-01-04T18:57:40.845339500
+Nom de parkings :POLY
+Nom de places libres :1448
+Nombres de places au total :1911
+
+Nom de la station : 001 Rue Jules Ferry - Gare Saint-Roch
+Places libres : 4
+Places occupées : 8
+Nombre de places totales : 4
+
+------- STATION DE VELOS -------
+
+Nom de la station : 002 Comédie
+Places libres : 18
+Places occupées : 6
+Nombre de places totales : 18
+
+------- STATION DE VELOS -------
+
+Nom de la station : 003 Esplanade
+Places libres : 23
+Places occupées : 9
+Nombre de places totales : 23
+
+------- STATION DE VELOS -------
+
+Nom de la station : 004 Hôtel de Ville
+Places libres : 5
+Places occupées : 11
+Nombre de places totales : 5
+
+------- STATION DE VELOS -------
+
+Nom de la station : 005 Corum
+Places libres : 0
+Places occupées : 12
+Nombre de places totales : 0
+
+------- STATION DE VELOS -------
+
+Nom de la station : 006 Place Albert 1er - St Charles
+Places libres : 24
+Places occupées : 7
+Nombre de places totales : 24
+
+------- STATION DE VELOS -------
+
+Nom de la station : 007 Foch
+Places libres : 7
+Places occupées : 1
+Nombre de places totales : 7
+
+------- STATION DE VELOS -------
+
+Nom de la station : 008 Halles Castellane
+Places libres : 8
+Places occupées : 4
+Nombre de places totales : 8
+
+------- STATION DE VELOS -------
+
+Nom de la station : 009 Observatoire
+Places libres : 3
+Places occupées : 5
+Nombre de places totales : 3
+
+------- STATION DE VELOS -------
+
+Nom de la station : 010 Rondelet
+Places libres : 14
+Places occupées : 2
+Nombre de places totales : 14
+
+------- STATION DE VELOS -------
+
+Nom de la station : 011 Plan Cabanes
+Places libres : 0
+Places occupées : 12
+Nombre de places totales : 0
+
+------- STATION DE VELOS -------
+
+Nom de la station : 012 Boutonnet
+Places libres : 10
+Places occupées : 2
+Nombre de places totales : 10
+
+------- STATION DE VELOS -------
+
+Nom de la station : 013 Emile Combes
+Places libres : 0
+Places occupées : 8
+Nombre de places totales : 0
+
+------- STATION DE VELOS -------
+
+Nom de la station : 014 Beaux-Arts
+Places libres : 7
+Places occupées : 1
+Nombre de places totales : 7
+
+------- STATION DE VELOS -------
+
+Nom de la station : 015 Les Aubes
+Places libres : 2
+Places occupées : 6
+Nombre de places totales : 2
+
+------- STATION DE VELOS -------
+
+Nom de la station : 016 Antigone centre
+Places libres : 0
+Places occupées : 16
+Nombre de places totales : 0
+
+------- STATION DE VELOS -------
+
+Nom de la station : 017 Médiathèque Emile Zola
+Places libres : 9
+Places occupées : 7
+Nombre de places totales : 9
+
+------- STATION DE VELOS -------
+
+Nom de la station : 018 Nombre d'Or
+Places libres : 2
+Places occupées : 14
+Nombre de places totales : 2
+
+------- STATION DE VELOS -------
+
+Nom de la station : 019 Louis Blanc
+Places libres : 9
+Places occupées : 7
+Nombre de places totales : 9
+
+------- STATION DE VELOS -------
+
+Nom de la station : 020 Gambetta
+Places libres : 3
+Places occupées : 5
+Nombre de places totales : 3
+
+------- STATION DE VELOS -------
+
+Nom de la station : 021 Port Marianne
+Places libres : 9
+Places occupées : 7
+Nombre de places totales : 9
+
+------- STATION DE VELOS -------
+
+Nom de la station : 022 Clemenceau
+Places libres : 9
+Places occupées : 3
+Nombre de places totales : 9
+
+------- STATION DE VELOS -------
+
+Nom de la station : 023 Les Arceaux
+Places libres : 16
+Places occupées : 0
+Nombre de places totales : 16
+
+------- STATION DE VELOS -------
+
+Nom de la station : 024 Cité Mion
+Places libres : 7
+Places occupées : 1
+Nombre de places totales : 7
+
+------- STATION DE VELOS -------
+
+Nom de la station : 025 Nouveau Saint-Roch
+Places libres : 1
+Places occupées : 7
+Nombre de places totales : 1
+
+------- STATION DE VELOS -------
+
+Nom de la station : 026 Renouvier
+Places libres : 5
+Places occupées : 3
+Nombre de places totales : 5
+
+------- STATION DE VELOS -------
+
+Nom de la station : 027 Odysseum
+Places libres : 2
+Places occupées : 6
+Nombre de places totales : 2
+
+------- STATION DE VELOS -------
+
+Nom de la station : 028 Saint-Denis
+Places libres : 6
+Places occupées : 2
+Nombre de places totales : 6
+
+------- STATION DE VELOS -------
+
+Nom de la station : 029 Richter
+Places libres : 0
+Places occupées : 16
+Nombre de places totales : 0
+
+------- STATION DE VELOS -------
+
+Nom de la station : 030 Charles Flahault
+Places libres : 8
+Places occupées : 0
+Nombre de places totales : 8
+
+------- STATION DE VELOS -------
+
+Nom de la station : 031 Voltaire
+Places libres : 1
+Places occupées : 7
+Nombre de places totales : 1
+
+------- STATION DE VELOS -------
+
+Nom de la station : 032 Prés d'Arènes
+Places libres : 2
+Places occupées : 6
+Nombre de places totales : 2
+
+------- STATION DE VELOS -------
+
+Nom de la station : 033 Garcia Lorca
+Places libres : 1
+Places occupées : 7
+Nombre de places totales : 1
+
+------- STATION DE VELOS -------
+
+Nom de la station : 034 Vert Bois
+Places libres : 16
+Places occupées : 0
+Nombre de places totales : 16
+
+------- STATION DE VELOS -------
+
+Nom de la station : 035 Malbosc
+Places libres : 7
+Places occupées : 1
+Nombre de places totales : 7
+
+------- STATION DE VELOS -------
+
+Nom de la station : 036 Occitanie
+Places libres : 29
+Places occupées : 3
+Nombre de places totales : 29
+
+------- STATION DE VELOS -------
+
+Nom de la station : 037 FacdesSciences
+Places libres : 17
+Places occupées : 7
+Nombre de places totales : 17
+
+------- STATION DE VELOS -------
+
+Nom de la station : 038 Fac de Lettres
+Places libres : 13
+Places occupées : 3
+Nombre de places totales : 13
+
+------- STATION DE VELOS -------
+
+Nom de la station : 039 Aiguelongue
+Places libres : 6
+Places occupées : 2
+Nombre de places totales : 6
+
+------- STATION DE VELOS -------
+
+Nom de la station : 040 Jeu de Mail des Abbés
+Places libres : 6
+Places occupées : 2
+Nombre de places totales : 6
+
+------- STATION DE VELOS -------
+
+Nom de la station : 041 Euromédecine
+Places libres : 7
+Places occupées : 1
+Nombre de places totales : 7
+
+------- STATION DE VELOS -------
+
+Nom de la station : 042 Marie Caizergues
+Places libres : 3
+Places occupées : 5
+Nombre de places totales : 3
+
+------- STATION DE VELOS -------
+
+Nom de la station : 043 Sabines
+Places libres : 6
+Places occupées : 2
+Nombre de places totales : 6
+
+------- STATION DE VELOS -------
+
+Nom de la station : 044 Celleneuve
+Places libres : 3
+Places occupées : 5
+Nombre de places totales : 3
+
+------- STATION DE VELOS -------
+
+Nom de la station : 045 Jardin de la Lironde
+Places libres : 4
+Places occupées : 4
+Nombre de places totales : 4
+
+------- STATION DE VELOS -------
+
+Nom de la station : 046 Père Soulas
+Places libres : 7
+Places occupées : 1
+Nombre de places totales : 7
+
+------- STATION DE VELOS -------
+
+Nom de la station : 047 Place Viala
+Places libres : 3
+Places occupées : 5
+Nombre de places totales : 3
+
+------- STATION DE VELOS -------
+
+Nom de la station : 048 Hôtel du Département
+Places libres : 7
+Places occupées : 1
+Nombre de places totales : 7
+
+------- STATION DE VELOS -------
+
+Nom de la station : 049 Tonnelles
+Places libres : 3
+Places occupées : 5
+Nombre de places totales : 3
+
+------- STATION DE VELOS -------
+
+Nom de la station : 050 Parvis Jules Ferry - Gare Saint-Roch
+Places libres : 8
+Places occupées : 0
+Nombre de places totales : 8
+
+------- STATION DE VELOS -------
+
+Nom de la station : 051 Pont de Lattes - Gare Saint-Roch
+Places libres : 11
+Places occupées : 1
+Nombre de places totales : 11
+
+------- STATION DE VELOS -------
+
+Nom de la station : 053 Deux Ponts - Gare Saint-Roch
+Places libres : 7
+Places occupées : 1
+Nombre de places totales : 7
+
+------- STATION DE VELOS -------
+
+Nom de la station : 054 Providence - Ovalie
+Places libres : 3
+Places occupées : 5
+Nombre de places totales : 3
+
+------- STATION DE VELOS -------
+
+Nom de la station : 055 Pérols Etang de l'Or
+Places libres : 34
+Places occupées : 34
+Nombre de places totales : 34
+
+------- STATION DE VELOS -------
+
+Nom de la station : 056 Albert 1er - Cathédrale
+Places libres : 12
+Places occupées : 0
+Nombre de places totales : 12
+
+------- STATION DE VELOS -------
+
+Nom de la station : 057 Saint-Guilhem - Courreau
+Places libres : 1
+Places occupées : 7
+Nombre de places totales : 1
+
+------- STATION DE VELOS -------
+
+Nom de la station : 059 Sud De France
+Places libres : 8
+Places occupées : 0
+Nombre de places totales : 8
+
+------- STATION DE VELOS -------
+
